@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "0.8.9",
+      "promotions": {
+        "downloads": {
+          "generic": ""
+        }
+      },
+      "updateType": "major"
+    }
+  ]
+}
